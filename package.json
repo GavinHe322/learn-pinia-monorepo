@@ -1,0 +1,19 @@
+{
+  "name": "@learn-pinia/root",
+  "packageManager": "pnpm@8.13.1",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "description": "学习monorepo",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "monorepo",
+    "pinia",
+    "pnpm"
+  ],
+  "author": "GavinHe322",
+  "license": "ISC"
+}
