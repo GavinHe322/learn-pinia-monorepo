@@ -1,0 +1,15 @@
+{
+  "name": "@learn-pinia/pinia",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": {
+    "name": "GavinHe322",
+    "email": "1521550385@qq.com"
+  },
+  "license": "ISC"
+}
